@@ -1,0 +1,9 @@
+pandas
+matplotlib
+google-cloud-bigquery
+google-cloud-aiplatform
+db-dtypes
+dotenv
+seaborn
+plotly
+psutil
